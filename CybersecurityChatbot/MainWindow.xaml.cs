@@ -34,7 +34,7 @@ namespace CybersecurityChatBot
         }
 
 
-        // Plays the WAV greeting file using AudioPlayer from Part 1
+        // Plays the WAV greeting file using the AudioPlayer
         // The greeting.wav file must be in the bin/Debug/net8.0/ folder
         private void PlayVoiceGreeting()
         {
