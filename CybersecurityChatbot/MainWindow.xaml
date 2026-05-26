@@ -6,7 +6,7 @@
         MinHeight="500" MinWidth="650"
         Background="#808080"
         WindowStartupLocation="CenterScreen">
-
+<!--GUI Layout-->
     <Grid>
         <Grid.RowDefinitions>
             <RowDefinition Height="Auto"/>
