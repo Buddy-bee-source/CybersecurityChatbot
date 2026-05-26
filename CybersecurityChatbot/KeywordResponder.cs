@@ -19,7 +19,7 @@ namespace CybersecurityChatBot
         // Used to randomly pick a response from the list
         private Random _random = new Random();
 
-        // Constructor - populate all keywords and their response lists
+        // Constructor - Keyword recognition
         public KeywordResponder()
         {
             _responses = new Dictionary<string, List<string>>
