@@ -19,7 +19,7 @@ namespace CybersecurityChatBot
 
     public class SentimentDetector
     {
-        // Dictionary: Sentiment -> list of trigger words
+        // Dictionary: Sentiment - list  of trigger words
         private Dictionary<Sentiment, List<string>> _triggerWords;
 
         // Constructor - populate each sentiment with its trigger words
