@@ -16,5 +16,8 @@ A WPF-based cybersecurity awareness chatbot that educates users about online saf
 - Memory and Recall -remembers name and favourite topics
 
   # YouTube Video Presentation
-  The YouTube video presentation explains the logic behind the code and also shows whether the code is working or not.
-  The link is on the comments
+ - The YouTube video presentation explains the logic behind the code and also shows whether the code is working or not.
+ - The link is on the comments
+ - The link is below:
+ - https://youtu.be/E6yTLer4EVQ?si=feygG8h7yxi0qPnx
+  
